@@ -5,7 +5,7 @@
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
+2. ⚙️ [Used Technology](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
@@ -33,6 +33,8 @@ If you're getting started and need assistance or face any bugs, join our active 
 ## <a name="features">🔋 Features</a>
 
 👉 **Social Media Platform**: Users can upload and media files same as the social media platform.
+
+👉 **Emotion Recognition System**: System will react according to the users facial expression.
 
 👉 **Onboarding Screen**: Engaging graphics and clear instructions welcome users to the app.
 
