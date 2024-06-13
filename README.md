@@ -38,7 +38,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Onboarding Screen**: Engaging graphics and clear instructions welcome users to the app.
 
-👉 **Robust Authentication & Authorization System**: Secure email login safeguards user accounts.
+👉 **Authentication & Authorization System**: Secure email login safeguards user accounts.
 
 👉 **Dynamic Home Screen with Animated Flat List**: Smoothly animated flat list showcases the latest videos for seamless browsing.
 
