@@ -19,13 +19,16 @@ this app showcases impressive design and functionality, enabling seamless sharin
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">⚙️ Used Technology</a>
 
 - React Native
 - Expo
 - Nativewind
 - Animatable
 - Appwrite
+- Python
+- Machine Learing
+- JupyterBook
 
 ## <a name="features">🔋 Features</a>
 
