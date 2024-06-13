@@ -32,6 +32,8 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="features">🔋 Features</a>
 
+👉 **Social Media Platform**: Users can upload and media files same as the social media platform.
+
 👉 **Onboarding Screen**: Engaging graphics and clear instructions welcome users to the app.
 
 👉 **Robust Authentication & Authorization System**: Secure email login safeguards user accounts.
