@@ -64,7 +64,4 @@ and many more, including code architecture and reusability
 
 ## <a name="more">🚀 System Banner & Demo</a>
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/DimanthaWalallawita/ResearchProject-ReactNative-Mobile-Application/raw/master/assets/first.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/DimanthaWalallawita/ResearchProject-ReactNative-Mobile-Application/assets/87009586/c49c2855-b821-4ef4-ace8-29fd7596495b
