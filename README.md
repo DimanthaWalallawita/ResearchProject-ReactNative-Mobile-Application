@@ -11,10 +11,17 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite, 
-this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
+This project focuses on the design, development, and production of a virtual pet that can recognize and respond to human emotions. The documentation provides a comprehensive overview of the project's journey, detailing each phase from inception to completion. This README file will give you an insight into the project's background, its scope, the problem it addresses, and its goals and objectives.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+## Project Background
+In today's fast-paced society, the concept of "busyness" is all too familiar. Inspired by Grant's motivation, the EmoBuddy project was conceived in response to the increasing preoccupation with technology that characterizes our modern lives. The World Health Organization (WHO) categorizes human health benefits into three primary sectors: physical well-being, mental well-being, and social well-being. Among these, mental health is particularly challenging to maintain amidst our busy schedules.
+
+Analyzing global health records reveals that mental health is paramount. We must prioritize mental health care above all other tasks. The World Health Organization (WHO) emphasizes this on their website, underscoring the significance of mental health in our daily lives.
+
+The image below illustrates the importance of mental health care as outlined by WHO:
+
+
+By addressing the mental well-being aspect, the EmoBuddy project aims to provide a virtual companion that helps users maintain their mental health through emotional recognition and interaction.
 
 ## <a name="tech-stack">⚙️ Used Technology</a>
 
