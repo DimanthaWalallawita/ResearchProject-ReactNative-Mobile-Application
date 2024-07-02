@@ -1,5 +1,5 @@
- # <div align="center">
-  # <h3 align="center">Human Emotion Detection Application With Virtual Pet</h3>
+ <div align="center">
+   <h3 align="center" style="wight:600; font-size:32px;">Human Emotion Detection Application With Virtual Pet</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
