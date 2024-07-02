@@ -13,7 +13,7 @@
 
 This project focuses on the design, development, and production of a virtual pet that can recognize and respond to human emotions. The documentation provides a comprehensive overview of the project's journey, detailing each phase from inception to completion. This README file will give you an insight into the project's background, its scope, the problem it addresses, and its goals and objectives.
 
-## Project Background
+# Project Background
 In today's fast-paced society, the concept of "busyness" is all too familiar. Inspired by Grant's motivation, the EmoBuddy project was conceived in response to the increasing preoccupation with technology that characterizes our modern lives. The World Health Organization (WHO) categorizes human health benefits into three primary sectors: physical well-being, mental well-being, and social well-being. Among these, mental health is particularly challenging to maintain amidst our busy schedules.
 
 Analyzing global health records reveals that mental health is paramount. We must prioritize mental health care above all other tasks. The World Health Organization (WHO) emphasizes this on their website, underscoring the significance of mental health in our daily lives.
